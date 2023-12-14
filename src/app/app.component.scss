@@ -1,0 +1,15 @@
+#main-container {
+  display: flex;
+  justify-content: center;
+  background: blue;
+  height: 100%;
+}
+
+.page-container {
+  border: 1px solid black;
+  width: 60%;
+  text-align: center;
+  background: white;
+  margin: 96px 24px;
+}
+
